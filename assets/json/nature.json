@@ -1,0 +1,29 @@
+[
+  {
+    "type" : "Water-fall",
+    "images" : "assets/images/nature1.jpg",
+    "videos" : [
+      "assets/videos/f1.mp4",
+      "assets/videos/f2.mp4",
+      "assets/videos/f3.mp4"
+    ]
+  },
+  {
+    "type" : "ocean",
+    "images" : "assets/images/nature2.jpg",
+    "videos" : [
+      "assets/videos/o1.mp4",
+      "assets/videos/o2.mp4",
+      "assets/videos/o3.mp4"
+    ]
+  },
+  {
+  "type" : "Sky",
+  "images" : "assets/images/nature3.jpg",
+  "videos" : [
+    "assets/videos/s1.mp4",
+    "assets/videos/s2.mp4",
+    "assets/videos/s3.mp4"
+  ]
+}
+]
