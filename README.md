@@ -1,16 +1,22 @@
-# vidio_player
+# Vidio_player
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align=center>
+  <img src="https://user-images.githubusercontent.com/111565916/190860330-26b11a60-f764-40b4-921c-90b13a7378ef.jpg" height=500 width=250>
+<p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align=center>
+  <img src="https://user-images.githubusercontent.com/111565916/190860370-d76dd49a-ee7a-4cee-989f-fed8787faf1c.jpg" height=500 width=250>
+<p>
+  
+
+<p align=center>
+  <img src="https://user-images.githubusercontent.com/111565916/190860393-e868a99b-8994-4a13-8430-967e9f9bd494.gif" height=500 width=250>
+<p>
+  
+
